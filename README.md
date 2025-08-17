@@ -1,4 +1,4 @@
-# 🍽️ Nhà Hàng Delicious - Hệ Thống Đặt Món Online Chuyên Nghiệp
+# 🍽️ Nhà Hàng Chez Maman - Hệ Thống Đặt Món Online Chuyên Nghiệp
 
 Ứng dụng đặt món ăn full-stack được xây dựng với Angular, Node.js, MySQL và Tailwind CSS. Hệ thống chuyên nghiệp này bao gồm đặt món của khách hàng, quản lý admin, theo dõi đơn hàng thời gian thực và các tính năng quản lý nhà hàng toàn diện.
 
@@ -13,7 +13,6 @@
 - 🛒 **Giỏ Hàng** - Thêm/xóa món, cập nhật số lượng
 - 💳 **Thanh Toán An Toàn** - Nhiều phương thức thanh toán (Tiền mặt, Thẻ, Online)
 - 📋 **Theo Dõi Đơn Hàng** - Cập nhật trạng thái đơn hàng thời gian thực
-- 📱 **Responsive Mobile** - Hoạt động hoàn hảo trên mọi thiết bị
 
 ### Tính Năng Admin
 - 📊 **Bảng Điều Khiển** - Tổng quan về đơn hàng, doanh thu và thống kê khách hàng
@@ -237,14 +236,6 @@ DoAnChuyenNganh/
 - **Bảo Mật Tải Lên File** - Xác thực loại hình ảnh
 - **Giới Hạn Tốc Độ** - Giới hạn yêu cầu API
 - **Bảo Vệ CORS** - Bảo mật yêu cầu cross-origin
-
-## 📱 Responsive Mobile
-
-Ứng dụng hoàn toàn responsive và hoạt động mượt mà trên:
-- 📱 Điện thoại di động (320px+)
-- 📱 Máy tính bảng (768px+)
-- 💻 Laptop (1024px+)
-- 🖥️ Desktop (1280px+)
 
 ## 🚀 Triển Khai
 
